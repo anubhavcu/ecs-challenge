@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecs-challenge/static/css/main.12fac025.chunk.css",
+    "main.js": "/ecs-challenge/static/js/main.86b40849.chunk.js",
+    "main.js.map": "/ecs-challenge/static/js/main.86b40849.chunk.js.map",
+    "runtime-main.js": "/ecs-challenge/static/js/runtime-main.fe60acc3.js",
+    "runtime-main.js.map": "/ecs-challenge/static/js/runtime-main.fe60acc3.js.map",
+    "static/css/2.150d169a.chunk.css": "/ecs-challenge/static/css/2.150d169a.chunk.css",
+    "static/js/2.e158420c.chunk.js": "/ecs-challenge/static/js/2.e158420c.chunk.js",
+    "static/js/2.e158420c.chunk.js.map": "/ecs-challenge/static/js/2.e158420c.chunk.js.map",
+    "index.html": "/ecs-challenge/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ecs-challenge/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.12fac025.chunk.css.map": "/ecs-challenge/static/css/main.12fac025.chunk.css.map",
+    "static/js/2.e158420c.chunk.js.LICENSE.txt": "/ecs-challenge/static/js/2.e158420c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe60acc3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e158420c.chunk.js",
+    "static/css/main.12fac025.chunk.css",
+    "static/js/main.86b40849.chunk.js"
+  ]
+}
